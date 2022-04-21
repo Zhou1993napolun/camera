@@ -1,7 +1,7 @@
 # camera
  This is a video stream file for Raspberry
 
-## 使用
+## Usage
 ```
 cd rym/  
 ```
